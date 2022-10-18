@@ -53,7 +53,8 @@ Student će razviti odgovarajuću web aplikaciju korištenjem prethodno navedeni
 
 - **Fazu 2**: izrada i evaluacija *low-fidelity* i *high-fidelity* prototipa: olovka i papir i/ili [Figma](https://www.figma.com/) (za *high-fidelity*).
 - **Fazu 3**: implementacija sustava i njegova evaluacija u [Next.js](https://nextjs.org/).
-    > VAŽNO: Ovaj zahtjev nije nužno ispuniti za prolazak predmeta. U tom slučaju konačna ocjena će biti ograničena na do maksimalno _dobar (3)_. U ovom slučaju, studenti će implementirati potpuni ("klikabilan") prototip za desktop i mobilnu verziju.
+  
+    > VAŽNO: Ovaj zahtjev nije nužno ispuniti za prolazak predmeta. U tom slučaju konačna ocjena će biti ograničena na maksimalno _dobar (3)_, a studenti će implementirati potpuni ("klikabilan") prototip za desktop i mobilnu verziju.
 
 ## Zadaće i korisnici koje aplikacija treba podržati
 
