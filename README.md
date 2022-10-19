@@ -1,5 +1,7 @@
 # Korisnička sučelja <!-- omit in toc -->
 
+Lab meet link: https://meet.google.com/hto-tijm-dmr
+
 ## FESB, 2022/23 <!-- omit in toc -->
 
 *Pripremili: Ivan Kuliš i Mario Čagalj*
