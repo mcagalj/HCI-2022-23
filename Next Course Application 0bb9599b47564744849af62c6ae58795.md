@@ -42,8 +42,8 @@ References:
 
 - **RN 0.0 (Home Page)**
 
-    ![Homepage - hi fidelity (4).png](Next%20Course%20Application%200bb9599b47564744849af62c6ae58795/Homepage_-_hi_fidelity_(4).png)
+    ![Homepage](Next%20Course%20Application%200bb9599b47564744849af62c6ae58795/Homepage%20-%20desktop.png)
 
 - **RN 0.0 (Home Page - mobile)**
 
-    ![Homepage_-_mobile_(1).png](Next%20Course%20Application%200bb9599b47564744849af62c6ae58795/Homepage_-_mobile_(1).png)
+    ![Homepage_mobile](Next%20Course%20Application%200bb9599b47564744849af62c6ae58795/Homepage%20-%20mobile.png)
