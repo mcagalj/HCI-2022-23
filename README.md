@@ -82,7 +82,9 @@ Izvrstan video: [What are Personas?](https://youtu.be/XnG4c4gXaQY)
 
 - Studenti će pokazati optimiziranu produkcijsku verziju projekta.
 - Produkcijska verzija projekta treba biti postavljena *online* na odgovarajuću *cloud* platformu ([Vercel](https://vercel.com), [Netlify](https://www.netlify.com/) ili neku sličnu).
-- Studenti će analizirati performanse aplikacije korištenjem sljedećeg Googleovog servisa: [https://web.dev/measure](https://web.dev/measure/)
+- Studenti će analizirati performanse aplikacije korištenjem sljedećih servisa:     
+  - [https://web.dev/measure](https://web.dev/measure/)
+  - [https://www.webpagetest.org](https://www.webpagetest.org)
 
 ## Praktične vježbe i smjernice
 
