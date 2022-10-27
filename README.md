@@ -100,6 +100,8 @@ U svrhu upoznavanja sa navedenim tehnologijama, u uvodnom dijelu labova student 
 
 - [Uvod u Git protokol](https://github.com/kula124/HCi_2020_Fresh/blob/master/git-workflow.md)
 
+- [Learn Git branching by playing a game (na preporuku kolege Bože Durdova)](https://learngitbranching.js.org/) 
+
 - [JavaScript za rad s React-om](Korisnička%20sučelja%20223d65e822a84c4a920abc95ddbf0852/JavaScript%20za%20rad%20s%20React-om%209774d5b6dd334e1c8aa3822ce5dd0b1b.md)
 
 - [Client-Side Rendering (CSR), Server-Side Rendering (SSR), Static Site Generation (SSG)?](https://prateeksurana.me/blog/future-of-rendering-in-react/)
