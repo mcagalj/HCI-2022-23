@@ -98,6 +98,8 @@ U svrhu upoznavanja sa navedenim tehnologijama, u uvodnom dijelu labova student 
 
 ### Za samostalan rad
 
+- [Ogledni primjeri projekata i izvještaja](./past-projects/README.md)
+
 - [Uvod u Git protokol](https://github.com/kula124/HCi_2020_Fresh/blob/master/git-workflow.md)
 
 - [Learn Git branching by playing a game (na preporuku kolege Bože Durdova)](https://learngitbranching.js.org/) 
