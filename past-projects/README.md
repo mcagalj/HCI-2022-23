@@ -1,5 +1,9 @@
 # Ogledni primjeri projekata i izvještaja
 
+U nastavku možete naći nekoliko primjera projekta i izvještaja starijih generacija. Projekti i izvještaji ponešto reflektiraju osobnost grupe/pojedinca. 
+
+> Izvještaji u nastavku koji uključuju low-fidelity i/ili wireframe prototipove trebali bi biti primarni izvor inspiracije za vaš projekt.
+
 ## Izvještaj u pdf formatu
 
 1. [Idemo u kino](HCI_Idemo_u_kino.pdf) - Ivan Uršić, Zrinka Fiamengo
